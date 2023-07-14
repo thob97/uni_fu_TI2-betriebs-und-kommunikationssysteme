@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -56,3 +57,6 @@ Themen sind daher:
 
 * Thore Brehmer - solved task 1-9 together
 * Jonny Lam - solved task 1-9 together
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
